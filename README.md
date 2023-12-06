@@ -34,9 +34,7 @@ The Shoe Cart App is a mobile application built with React Native that allows us
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Rupali-app-hub/eComApp.git
-   cd ShoeCart
-   react-native run-android
+   
 
 
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
