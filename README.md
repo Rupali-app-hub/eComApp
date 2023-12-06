@@ -1,4 +1,4 @@
-![image](https://github.com/Rupali-app-hub/eComApp/assets/152596991/c380fd8e-8401-42af-90bd-7fe86949972d)![image](https://github.com/Rupali-app-hub/eComApp/assets/152596991/854842ec-468d-4360-946a-b5cb7e6b811f)This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+
 
 # Getting Started
 # Shoe Cart App - Rupali Priyadarsini Nayak
