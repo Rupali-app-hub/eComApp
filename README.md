@@ -28,7 +28,6 @@ The Shoe Cart App is a mobile application built with React Native that allows us
 
 1. Clone the repository:
 
-   ```bash
    
 
 
